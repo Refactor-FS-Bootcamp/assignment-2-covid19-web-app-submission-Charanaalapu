@@ -18,7 +18,7 @@ body{
 }
 .h1{
     align-items: center;
-    font-weight: 800;
+    /* font-weight: 800; */
     font-size: 40px;
     margin: 16px 0;
 }
